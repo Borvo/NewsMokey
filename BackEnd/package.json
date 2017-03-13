@@ -19,5 +19,7 @@
     "url": "https://github.com/Borvo/NewsMokey/issues"
   },
   "homepage": "https://github.com/Borvo/NewsMokey#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
